@@ -1,0 +1,22 @@
+# ChromeDriver binaries
+/chrome
+chromedriver.exe
+chromedriver
+chromedriver-win64/
+chromedriver-linux64/
+chromedriver-mac-arm64/
+chromedriver-mac-x64/
+
+# Maven build output
+target/
+
+# IDE files
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# OS files
+Thumbs.db
+.DS_Store
